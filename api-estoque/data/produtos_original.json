@@ -1,0 +1,98 @@
+[
+  {
+    "codigo": "PRD-001",
+    "nome": "Mouse sem fio",
+    "categoria": "Periféricos",
+    "quantidade_atual": 5,
+    "estoque_minimo": 10,
+    "unidade": "un"
+  },
+  {
+    "codigo": "PRD-002",
+    "nome": "Teclado USB",
+    "categoria": "Periféricos",
+    "quantidade_atual": 40,
+    "estoque_minimo": 15,
+    "unidade": "un"
+  },
+  {
+    "codigo": "PRD-003",
+    "nome": "Monitor 24 polegadas",
+    "categoria": "Monitores",
+    "quantidade_atual": 12,
+    "estoque_minimo": 5,
+    "unidade": "un"
+  },
+  {
+    "codigo": "PRD-004",
+    "nome": "Cabo HDMI 2 m",
+    "categoria": "Cabos e Adaptadores",
+    "quantidade_atual": 0,
+    "estoque_minimo": 20,
+    "unidade": "un"
+  },
+  {
+    "codigo": "PRD-005",
+    "nome": "Papel sulfite A4",
+    "categoria": "Papelaria",
+    "quantidade_atual": 30,
+    "estoque_minimo": 30,
+    "unidade": "pct"
+  },
+  {
+    "codigo": "PRD-006",
+    "nome": "Caneta esferográfica azul",
+    "categoria": "Papelaria",
+    "quantidade_atual": 200,
+    "estoque_minimo": 50,
+    "unidade": "un"
+  },
+  {
+    "codigo": "PRD-007",
+    "nome": "Cartucho de tinta preta",
+    "categoria": "Suprimentos de Impressão",
+    "quantidade_atual": 3,
+    "estoque_minimo": 8,
+    "unidade": "un"
+  },
+  {
+    "codigo": "PRD-008",
+    "nome": "Webcam Full HD",
+    "categoria": "Periféricos",
+    "quantidade_atual": 0,
+    "estoque_minimo": 5,
+    "unidade": "un"
+  },
+  {
+    "codigo": "PRD-009",
+    "nome": "Notebook 14 polegadas",
+    "categoria": "Computadores",
+    "quantidade_atual": 8,
+    "estoque_minimo": 8,
+    "unidade": "un"
+  },
+  {
+    "codigo": "PRD-010",
+    "nome": "Pen drive 64 GB",
+    "categoria": "Armazenamento",
+    "quantidade_atual": 25,
+    "estoque_minimo": 10,
+    "unidade": "un"
+  },
+  {
+    "codigo": "PRD-011",
+    "nome": "Álcool isopropílico",
+    "categoria": "Limpeza",
+    "quantidade_atual": 4,
+    "estoque_minimo": 10,
+    "unidade": "L"
+  },
+  {
+    "codigo": "PRD-012",
+    "nome": "Cabo de rede Cat6",
+    "categoria": "Cabos e Adaptadores",
+    "quantidade_atual": 150,
+    "estoque_minimo": 100,
+    "unidade": "m"
+  }
+]

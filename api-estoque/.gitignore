@@ -1,0 +1,26 @@
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Testes e caches
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Arquivos temporários da gravação atômica do JSON
+data/*.tmp
+
+# Editores e sistema operacional
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Variáveis de ambiente (a API não usa, mas evita commits acidentais)
+.env
